@@ -1,5 +1,12 @@
 # Changelog
 
+## 10.2.1 /2026-04-22
+
+## What's Changed
+
+* Pins async-substrate-interface under 2.0 to avoid complications
+
+
 ## 10.2.0 /2026-03-19
 
 ## What's Changed
